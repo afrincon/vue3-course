@@ -2,7 +2,7 @@
   <div id="nav">
     <router-link to="/">Events</router-link> |
     <router-link to="/about">About</router-link>
-  </div>  
+  </div>
   <router-view />
 </template>
 

@@ -12,11 +12,11 @@
 
 <script>
 export default {
-  name: "EventCard",
+  name: 'EventCard',
   props: {
     event: Object,
   },
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
